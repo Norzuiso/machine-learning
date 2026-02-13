@@ -1,0 +1,2 @@
+Accuracy,Precision_macro,Recall_macro,F1_macro,Loss,Top5_accuracy
+0.9667,0.9671092812740119,0.9661750586804345,0.9663944423011767,0.5272783,1.0
